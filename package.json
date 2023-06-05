@@ -1,0 +1,25 @@
+{
+  "name": "logger_middleware_redis",
+  "version": "0.0.1",
+  "description": "logger_middleware_redis",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "TQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7K7K-Qin1/logger_middleware_redis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7K7K-Qin1/logger_middleware_redis.git"
+  },
+  "homepage": "https://github.com/7K7K-Qin1/logger_middleware_redis#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
