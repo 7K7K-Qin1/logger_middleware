@@ -1,6 +1,6 @@
 {
-  "name": "logger_middleware_redis",
-  "version": "0.0.4",
+  "name": "@meta-metopia/logger_middleware",
+  "version": "0.0.5",
   "description": "logger_middleware_redis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
